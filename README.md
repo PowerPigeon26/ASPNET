@@ -1,1 +1,1 @@
-Hi! This project 
+Hi! This is an ASP.NET MVC project with CRUD capabilities. The project utilizes a database from MySQL to access products from a MySQL database of Bestbuy data. Through the site, products can be read, updated, created, and deleted. This project was for practicing the steps of making an MVC site.
